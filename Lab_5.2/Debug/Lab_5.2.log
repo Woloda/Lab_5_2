@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\dwtwm\source\repos\Lab_5.2\Lab_5.2\main.cpp(22,1): warning C4297: 'Sum_Geom_Progr2': function assumed not to throw an exception but does
+C:\Users\dwtwm\source\repos\Lab_5.2\Lab_5.2\main.cpp(22,1): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+C:\Users\dwtwm\source\repos\Lab_5.2\Lab_5.2\main.cpp(30,63): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_5.2\Lab_5.2\main.cpp(41,67): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_5.2\Lab_5.2\main.cpp(52,73): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_5.2\Lab_5.2\main.cpp(63,78): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Lab_5.2.vcxproj -> C:\Users\dwtwm\source\repos\Lab_5.2\Debug\Lab_5.2.exe
